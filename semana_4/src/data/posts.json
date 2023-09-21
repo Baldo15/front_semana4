@@ -1,0 +1,29 @@
+{
+    "posters": [
+      {
+        "id": 1,
+        "tie": "10",
+        "aut": "Baldomero",
+        "tex": "un gran dia en la oficina",
+        "com": "1",
+        "img":"src/images/soft.jpeg"
+      },
+      {
+        "id": 2,
+        "tie": "45",
+        "aut": "Mardely",
+        "tex": "un gran bello dia en el estadio apoyando al equipo",
+        "com": "85",
+        "img":"src/images/soft2.jpeg"
+      },
+      {
+        "id": 3,
+        "tie": "55",
+        "aut": "Danniela",
+        "tex": "compartir en la oficina",
+        "com": "580",
+        "img":"src/images/soft3.jpeg"
+      }
+    ]
+  }
+  
